@@ -4,16 +4,157 @@ title: Calendar
 uid: 5bad34ef-eb21-d761-34f0-3dced5c8565b
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | Rationality? | Play Online Game #1 |
-| 3 | Equilibrium I | Play Online Game #4 |
-| 4 | Equilibrium II | Play Online Game #3 |
-| 5 | Commitment | Assignment #1 Due  {{< br >}}  {{< br >}}Play Online Game #6 |
-| 6 | Strategic Substitutes and Strategic Complements |  |
-| 7 | Application: Entering a Market | Assignment #2 Due |
-| 8 | Application: Brinksmanship |  |
-| 9 | Auctions | Play Online Game #8 |
-| 10 | Uncertainty and Information | Assignment #3 Due  {{< br >}}  {{< br >}}Play Online Game #7 |
-| 11 | Reputation and Strategic Irrationality | Take-home Final Exam Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Rationality?
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium I
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium II
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Commitment
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #1 Due  
+  
+Play Online Game #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Substitutes and Strategic Complements
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Entering a Market
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Brinksmanship
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Auctions
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty and Information
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #3 Due  
+  
+Play Online Game #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reputation and Strategic Irrationality
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home Final Exam Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

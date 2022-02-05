@@ -20,16 +20,197 @@ Information about how to access the online games will be provided in class. The
 
 Games will become available by **5:00 PM** the day of the lecture in which they are announced and must be played by **midnight the day prior** to the next lecture. Results from the online games will be announced in lecture. (Note that the numbering of the games in the table below is not sequential; it corresponds to the game numbers on GameTheory.net.)
 
-| LEC # | TOPICS | IN-CLASS GAMES | ONLINE GAMES |
-| --- | --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Rationality? | Prepare Worksheet for Urn Game ([PDF]({{< baseurl >}}/resources/lec2_urn_game)) | Play Online Game #1: Beauty Contest ([PDF]({{< baseurl >}}/resources/game1)) and notify TA of the members of your team |
-| 3 | Equilibrium I | Prepare Worksheet for Bluffing Game ([PDF]({{< baseurl >}}/resources/lec3_bluff_game)) | Play Online Game #4: Monitoring Game ([PDF]({{< baseurl >}}/resources/game4)) |
-| 4 | Equilibrium II | &nbsp; | Play Online Game #3: Entrant Game ([PDF]({{< baseurl >}}/resources/game3)) |
-| 5 | Commitment | &nbsp; | Play Online Game #6: New Market Game ([PDF]({{< baseurl >}}/resources/game6)) |
-| 6 | Strategic Substitutes and Strategic Complements | Prepare Worksheet for Dynamic Pricing Game ([PDF]({{< baseurl >}}/resources/lec6_price_game)) | &nbsp; |
-| 7 | Application: Entering a Market | &nbsp; |
-| 8 | Application: Brinksmanship | Prepare Worksheet for Angry Negotiation Game ([PDF]({{< baseurl >}}/resources/lec8_angry_game))  {{< br >}}  {{< br >}}Optional Follow-up: Computerized Angry Negotiation Tournament ([PDF]({{< baseurl >}}/resources/angry_trnmt))  {{< br >}}  {{< br >}}Students fill out this spreadsheet to play ([XLS]({{< baseurl >}}/resources/angry_blank))  {{< br >}}  {{< br >}}Use this spreadsheet to experiment with different strategies – how payoffs change depending on what strategy you and your opponent choose ([XLS]({{< baseurl >}}/resources/angry_payoff-1))  {{< br >}}  {{< br >}}More detail on how payoffs are computed  ([PDF]({{< baseurl >}}/resources/angry_payoff)) | &nbsp; |
-| 9 | Auctions | &nbsp; | Play Online Game #8: Takeover Bidding ([PDF]({{< baseurl >}}/resources/game8)) |
-| 10 | Uncertainty and Information | &nbsp; | Play Online Game #7: Incentives Game ([PDF]({{< baseurl >}}/resources/game7)) |
-| 11 | Reputation and Strategic Irrationality | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS GAMES
+{{< thclose >}}
+{{< thopen >}}
+ONLINE GAMES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Rationality?
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Worksheet for Urn Game ([PDF]({{< baseurl >}}/resources/lec2_urn_game))
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #1: Beauty Contest ([PDF]({{< baseurl >}}/resources/game1)) and notify TA of the members of your team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium I
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Worksheet for Bluffing Game ([PDF]({{< baseurl >}}/resources/lec3_bluff_game))
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #4: Monitoring Game ([PDF]({{< baseurl >}}/resources/game4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #3: Entrant Game ([PDF]({{< baseurl >}}/resources/game3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Commitment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #6: New Market Game ([PDF]({{< baseurl >}}/resources/game6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Substitutes and Strategic Complements
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Worksheet for Dynamic Pricing Game ([PDF]({{< baseurl >}}/resources/lec6_price_game))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Entering a Market
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Application: Brinksmanship
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Worksheet for Angry Negotiation Game ([PDF]({{< baseurl >}}/resources/lec8_angry_game))  
+  
+Optional Follow-up: Computerized Angry Negotiation Tournament ([PDF]({{< baseurl >}}/resources/angry_trnmt))  
+  
+Students fill out this spreadsheet to play ([XLS]({{< baseurl >}}/resources/angry_blank))  
+  
+Use this spreadsheet to experiment with different strategies – how payoffs change depending on what strategy you and your opponent choose ([XLS]({{< baseurl >}}/resources/angry_payoff-1))  
+  
+More detail on how payoffs are computed  ([PDF]({{< baseurl >}}/resources/angry_payoff))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Auctions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #8: Takeover Bidding ([PDF]({{< baseurl >}}/resources/game8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty and Information
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Play Online Game #7: Incentives Game ([PDF]({{< baseurl >}}/resources/game7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reputation and Strategic Irrationality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
