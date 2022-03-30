@@ -5,6 +5,7 @@ description: Use this spreadsheet to experiment with different strategies in the
   choose.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-040-game-theory-for-managers-spring-2004/b6553498c66021b4dbb74cb70d36aa3f_angry_payoff.xls
 file_type: application/msword
+parent_uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 resourcetype: Other
 title: angry_payoff.xls
 uid: b6553498-c660-21b4-dbb7-4cb70d36aa3f

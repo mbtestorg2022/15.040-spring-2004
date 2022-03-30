@@ -4,6 +4,7 @@ description: Presentation of Lecture 7. Note that blank slides indicate separate
   of the lecture.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-040-game-theory-for-managers-spring-2004/3bdac89fe73457b5b9ddd0c26a8eec6d_lec7.pdf
 file_type: application/pdf
+parent_uid: 05737ce0-b41b-ba22-5ba8-fd861d6ba36a
 resourcetype: Document
 title: lec7.pdf
 uid: 3bdac89f-e734-57b5-b9dd-d0c26a8eec6d
